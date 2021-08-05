@@ -1,2 +1,2 @@
-# alien_invasion
-a 2-D game which is based on Python
+# nothing_now
+When I am a master, I will set up my things.
